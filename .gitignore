@@ -10,3 +10,6 @@
 
 # Ignore VS Code configs
 /.vscode
+
+# Ignore temp files
+/tmp
