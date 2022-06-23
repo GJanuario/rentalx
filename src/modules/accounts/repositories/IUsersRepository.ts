@@ -1,4 +1,5 @@
-import { ICreateUsersDTO } from "../dtos/ICreateUsersDTO";
+import { ICreateUsersDTO } from "@modules/accounts/dtos/ICreateUsersDTO";
+
 import { User } from "../entities/User";
 
 interface IUsersRepository {

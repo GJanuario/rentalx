@@ -1,10 +1,6 @@
 # Ignore node_modules
 /node_modules
 
-# Ignore eslint
-/.eslintignore
-/.eslintrc.json
-
 # Ignore Prettier
 /prettier.config.js
 
